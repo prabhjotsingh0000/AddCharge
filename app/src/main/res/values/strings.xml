@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Add Charge</string>
+    <string name="notes">Notes</string>
+    <string name="procedures">Procedures</string>
+    <string name="message">Please select an item for which you want to add a charge.</string>
+    <string name="procedure_code">Select Procedure Code*</string>
+    <string name="confirm">Confirm</string>
+</resources>
+
